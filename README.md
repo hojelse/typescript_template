@@ -8,4 +8,4 @@ install node.js to use npm
 
 ## Use
 
-``tsc`` to compile files in *src* folder and place in *public* folder
+``tsc`` to compile .ts files in *src* to .js in *public*
