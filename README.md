@@ -9,3 +9,5 @@ install node.js to use npm
 ## Use
 
 ``tsc`` to compile .ts files in *src* to .js in *public*
+
+``tsc --watch`` to recompile on file changed
