@@ -1,2 +1,1 @@
-console.log('testing');
-
+console.log('Hello world from script.ts');
